@@ -25,7 +25,7 @@ The Penetration-Testing-Report Generator is a Python script designed to help sec
 
 2. **Navigate to the Directory**:
    ```bash
-   cd penetration-testing-report-generator
+   cd /Penetration-Testing-Reporter
    ```
 
 3. **Run the Script**:
